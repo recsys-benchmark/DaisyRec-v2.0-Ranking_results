@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+DaisyRec-v2.0-Ranking_results
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This gitHub repo records the DaisyRec-v2.0's ranking results
 
-Read the tutorial here:
+The results are shown here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://daisyrec-ranking-results.readthedocs.io/en/latest/
