@@ -1,7 +1,7 @@
 NGCF
 ===============
 
-The results of *NGCF* in 6 datasets are listed below.
+The results of *NGCF* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions, Yelp, AMZe) under three views (i.e., origin, 5-filter and 10-filter) w.r.t time-aware split-by-ratio (TSBR) are listed below.
 
 ML-1M
 ------
@@ -9,7 +9,6 @@ The results on *ML-1M* dataset across origin, 5- and 10-filter settings are list
 
 origin
 ^^^^^^
-The performance of *origin* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -24,7 +23,6 @@ NDCG        0.4275    0.6038    0.6230    0.6316    0.6323    0.6332
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -39,7 +37,6 @@ NDCG        0.2304    0.3809    0.4186    0.4496    0.4663    0.4834
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -58,7 +55,6 @@ The results on *LastFM* dataset across origin, 5- and 10-filter settings are lis
 
 origin
 ^^^^^^
-The performance of *origin* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -73,7 +69,6 @@ NDCG        0.6075    0.7740    0.7688    0.7527    0.7445    0.7341
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -88,7 +83,6 @@ NDCG        0.4511    0.6230    0.6381    0.6310    0.6240    0.6128
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -107,7 +101,6 @@ The results on *Book-X* dataset across origin, 5- and 10-filter settings are lis
 
 origin
 ^^^^^^
-The performance of *origin* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -122,7 +115,6 @@ NDCG        0.1857    0.2625    0.2778    0.2869    0.2903    0.2942
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -138,7 +130,6 @@ NDCG        0.1817    0.2960    0.3249    0.3437    0.3515    0.3595
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -157,7 +148,6 @@ The results on *Epinions* dataset across origin, 5- and 10-filter settings are l
 
 origin
 ^^^^^^
-The performance of *origin* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -172,7 +162,6 @@ NDCG        0.1232    0.1844    0.2069    0.2263    0.2363    0.2497
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -187,7 +176,6 @@ NDCG        0.0581    0.0944    0.1086    0.1218    0.1306    0.1411
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 metric@K    1         5         10        20        30        50       
@@ -206,7 +194,6 @@ The results on *Yelp* dataset across 5- and 10-filter settings are listed below.
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -221,7 +208,6 @@ NDCG        0.1977    0.3252    0.3573    0.3798    0.3900    0.4011
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -240,7 +226,6 @@ The results on *AMZe* dataset across 5- and 10-filter settings are listed below.
 
 5-filter
 ^^^^^^^^
-The performance of *5-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
@@ -255,7 +240,6 @@ NDCG        0.0954    0.1776    0.2038    0.2238    0.2336    0.2446
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       

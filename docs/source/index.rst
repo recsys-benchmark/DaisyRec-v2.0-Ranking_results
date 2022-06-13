@@ -1,4 +1,4 @@
-Welcome to DaisyRec-v2.0’s documentation!
+Welcome to DaisyRec-v2.0’s ranking results!
 ===========================================
 
 Contents

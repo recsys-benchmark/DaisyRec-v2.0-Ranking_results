@@ -1,7 +1,7 @@
 SLIM 
 ===============
 
-The results of *SLIM* in 6 datasets are listed below.
+The results of *SLIM* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions, Yelp, AMZe) under 10-filter view  w.r.t time-aware split-by-ratio (TSBR) are listed below.
 
 ML-1M
 ------
@@ -9,7 +9,6 @@ The results on *ML-1M* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K     1         5         10        20        30        50       
@@ -28,7 +27,6 @@ The results on *LastFM* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K    1         5         10        20        30        50       
@@ -47,7 +45,6 @@ The results on *Book-X* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K    1         5         10        20        30        50       
@@ -66,7 +63,6 @@ The results on *Epinions* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K    1         5         10        20        30        50       
@@ -85,7 +81,6 @@ The results on *Yelp* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K    1         5         10        20        30        50       
@@ -104,7 +99,6 @@ The results on *AMZe* dataset across 10-filter settings are listed below.
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 ========  ========  ========  ========  ========  ========  ========
 Metric@K    1         5         10        20        30        50       
