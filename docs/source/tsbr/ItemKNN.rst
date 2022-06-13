@@ -129,7 +129,6 @@ NDCG        0.1128    0.1502    0.1580    0.1646    0.1689    0.1742
 
 10-filter
 ^^^^^^^^^
-The performance of *10-filter* setting across 6 metrics are listed below.
 
 =========== ========= ========= ========= ========= ========= ========= 
 Metric@K    1         5         10        20        30        50       
