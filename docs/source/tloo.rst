@@ -4,13 +4,13 @@ Time-aware Leave-One-Out (TLOO)
 .. toctree::
     :maxdepth: 1
 
-    tloo/MostPop
-    tloo/ItemKNN
-    tloo/PureSVD
-    tloo/BPRMF
-    tloo/BPRFM
-    tloo/SLIM
-    tloo/NeuMF
-    tloo/NFM
-    tloo/NGCF
-    tloo/Multi-VAE
+    tloo_results/MostPop
+    tloo_results/ItemKNN
+    tloo_results/PureSVD
+    tloo_results/BPRMF
+    tloo_results/BPRFM
+    tloo_results/SLIM
+    tloo_results/NeuMF
+    tloo_results/NFM
+    tloo_results/NGCF
+    tloo_results/Multi-VAE
