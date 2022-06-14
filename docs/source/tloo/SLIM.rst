@@ -4,7 +4,7 @@ The results of *SLIM* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions, 
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -22,7 +22,7 @@ ndcg        0.0363    0.0807    0.1033    0.1304    0.1446    0.1635
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -40,7 +40,7 @@ ndcg        0.1109    0.1924    0.2265    0.2563    0.2719    0.2898
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -58,7 +58,7 @@ ndcg        0.1017    0.1547    0.1704    0.1822    0.1877    0.1935
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -76,7 +76,7 @@ ndcg        0.0167    0.0278    0.0305    0.0335    0.0358    0.0399
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -94,7 +94,7 @@ ndcg        0.0300    0.0372    0.0388    0.0410    0.0430    0.0466
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

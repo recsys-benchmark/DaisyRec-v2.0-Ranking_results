@@ -4,7 +4,7 @@ The results of *NeuMF* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions,
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -22,7 +22,7 @@ ndcg        0.0244    0.0568    0.0793    0.1042    0.1201    0.1418
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -40,7 +40,7 @@ ndcg        0.0889    0.1539    0.1850    0.2151    0.2329    0.2535
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -58,7 +58,7 @@ ndcg        0.0313    0.0620    0.0775    0.0953    0.1061    0.1199
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -76,7 +76,7 @@ ndcg        0.0199    0.0447    0.0586    0.0759    0.0867    0.1016
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -94,7 +94,7 @@ ndcg        0.0792    0.1634    0.2019    0.2371    0.2551    0.2744
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

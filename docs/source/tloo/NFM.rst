@@ -4,7 +4,7 @@ The results of *NFM* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions, Y
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -22,7 +22,7 @@ ndcg        0.0141    0.0336    0.0452    0.0595    0.0717    0.0868
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -40,7 +40,7 @@ ndcg        0.0268    0.0470    0.0612    0.0744    0.0853    0.0982
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -58,7 +58,7 @@ ndcg        0.0277    0.0520    0.0644    0.0787    0.0869    0.0984
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -76,7 +76,7 @@ ndcg        0.0136    0.0288    0.0377    0.0483    0.0549    0.0649
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -94,7 +94,7 @@ NDCG
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

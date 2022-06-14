@@ -4,7 +4,7 @@ The results of *BPRMF* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinions,
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -22,7 +22,7 @@ ndcg        0.0254    0.0594    0.0791    0.1032    0.1179    0.1389
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -40,7 +40,7 @@ ndcg        0.0878    0.1479    0.1769    0.2070    0.2247    0.2427
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -58,7 +58,7 @@ ndcg        0.0409    0.0840    0.1052    0.1285    0.1420    0.1599
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -76,7 +76,7 @@ ndcg        0.0320    0.0652    0.0823    0.1015    0.1133    0.1276
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -94,7 +94,7 @@ ndcg        0.0742    0.1496    0.1840    0.2170    0.2350    0.2559
 
 AMZe
 -----
-The result on *AMZe* dataset across 10-filter setting are listed below.
+The result on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

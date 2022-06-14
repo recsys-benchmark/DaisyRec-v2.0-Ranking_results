@@ -4,7 +4,7 @@ The results of *PureSVD* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinion
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -22,7 +22,7 @@ ndcg        0.0316    0.0747    0.0997    0.1256    0.1414    0.1612
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -40,7 +40,7 @@ ndcg        0.1002    0.1680    0.1961    0.2233    0.2409    0.2584
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -58,7 +58,7 @@ ndcg        0.0565    0.0962    0.1120    0.1269    0.1358    0.1458
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -76,7 +76,7 @@ ndcg        0.0324    0.0630    0.0780    0.0939    0.1034    0.1148
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -94,7 +94,7 @@ ndcg        0.0987    0.1862    0.2199    0.2494    0.2636    0.2783
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

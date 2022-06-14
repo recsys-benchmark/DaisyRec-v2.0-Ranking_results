@@ -5,7 +5,7 @@ The results of *Multi-VAE* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epini
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -23,7 +23,7 @@ ndcg        0.0139    0.0349    0.0465    0.0615    0.0737    0.0892
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -41,7 +41,7 @@ ndcg        0.0375    0.0539    0.0670    0.0815    0.0891    0.1023
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 
 10-filter
@@ -60,7 +60,7 @@ ndcg        0.0272    0.0518    0.0655    0.0793    0.0875    0.0988
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -78,7 +78,7 @@ ndcg        0.0142    0.0286    0.0378    0.0482    0.0554    0.0653
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -96,7 +96,7 @@ ndcg        0.0282    0.0562    0.0702    0.0848    0.0949    0.1088
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^

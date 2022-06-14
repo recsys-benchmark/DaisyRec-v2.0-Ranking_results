@@ -5,7 +5,7 @@ The results of *ItemKNN* on the 6 datasets (i.e., ML-1M, LastFM, Book-X, Epinion
 
 ML-1M
 ------
-The results on *ML-1M* dataset across 10-filter setting are listed below.
+The results on *ML-1M* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -23,7 +23,7 @@ ndcg        0.0308    0.0658    0.0860    0.1100    0.1246    0.1452
 
 LastFM
 ------
-The results on *LastFM* dataset across 10-filter setting are listed below.
+The results on *LastFM* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -42,7 +42,7 @@ ndcg        0.1012    0.1614    0.1870    0.2120    0.2284    0.2468
 
 Book-X
 ------
-The results on *Book-X* dataset across 10-filter setting are listed below.
+The results on *Book-X* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -62,7 +62,7 @@ ndcg        0.0803    0.1285    0.1456    0.1603    0.1687    0.1786
 
 Epinions
 --------
-The results on *Epinions* dataset across 10-filter setting are listed below.
+The results on *Epinions* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -80,7 +80,7 @@ ndcg        0.0375    0.0643    0.0727    0.0791    0.0824    0.0871
 
 Yelp
 -----
-The results on *Yelp* dataset across 10-filter setting are listed below.
+The results on *Yelp* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
@@ -98,7 +98,7 @@ ndcg        0.1143    0.2024    0.2302    0.2487    0.2556    0.2611
 
 AMZe
 -----
-The results on *AMZe* dataset across 10-filter setting are listed below.
+The results on *AMZe* dataset under 10-filter setting are listed below.
 
 10-filter
 ^^^^^^^^^
